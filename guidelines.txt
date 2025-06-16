@@ -1,0 +1,6 @@
+Prompt engineering
+Adding retrievers (dynamic documents) - semantic, sythatic, chunking, ...
+Langchain + langgraph   
+Langfuse
+Interface
+Adding evaluation

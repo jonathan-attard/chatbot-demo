@@ -1,0 +1,11 @@
+dotenv
+google-genai
+chromadb
+sentence-transformers
+einops
+langgraph
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-google-genai
+langfuse==2.60.4
